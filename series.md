@@ -28,7 +28,7 @@ n + 2\(n-1\) + 3\(n-2\) + 4\(n-3\) + n/2\(n-\(n/2-1\)\) + .... + 2\(n-1\) + n
 
 Third Form:
 
-
+!(https://github.com/azfarrizvi/mvignettes/blob/master/third_form.png?raw=true "Title")
 
 Another matrix multiplication form exists corresponding to 1st original form.
 

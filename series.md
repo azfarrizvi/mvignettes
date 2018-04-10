@@ -1,4 +1,4 @@
- Story of a Series
+# Story of a Series
 
 Assumption:
 
@@ -8,13 +8,13 @@ Let's assume further that we have n series such that:
 
 1st series: 1
 
-2nd series:1 + 2
+2nd series: 1 + 2
 
 3rd series: 1 + 2 + 3
 
 4th series: 1 + 2 + 3 + 4
 
-Nth series:1 + 2 + 3 + 4 + 5 + 6 + ... + n
+Nth series: 1 + 2 + 3 + 4 + 5 + 6 + ... + n
 
 Sum of all these series can be expressed as follows:
 
@@ -28,9 +28,7 @@ n + 2\(n-1\) + 3\(n-2\) + 4\(n-3\) + n/2\(n-\(n/2-1\)\) + .... + 2\(n-1\) + n
 
 Third Form:
 
-[[https://github.com/azfarrizvi/mvignettes/blob/master/third_form.png]]
-
-Another matrix multiplication form exists corresponding to 1st original form.
+![Matrix Formulation](https://github.com/azfarrizvi/mvignettes/blob/master/third_form.png)
 
 Fourth Original Form:
 

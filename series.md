@@ -1,4 +1,4 @@
-# Story of a Series
+ Story of a Series
 
 Assumption:
 
@@ -28,7 +28,7 @@ n + 2\(n-1\) + 3\(n-2\) + 4\(n-3\) + n/2\(n-\(n/2-1\)\) + .... + 2\(n-1\) + n
 
 Third Form:
 
-[[https://github.com/azfarrizvi/mvignettes/blob/master/third_form.png|alt=octocat]]
+[[https://github.com/azfarrizvi/mvignettes/blob/master/third_form.png]]
 
 Another matrix multiplication form exists corresponding to 1st original form.
 
